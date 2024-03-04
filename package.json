@@ -1,11 +1,11 @@
 {
-  "name": "yimi_dytable",
+  "name": "yimi_dyntable",
   "version": "1.0.0",
-  "author": "ymi1111",
+  "author": "ox126one",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ymi1111/yimi_dyntable"
+    "url": "https://github.com/ox126one/yimi_dyntable"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
